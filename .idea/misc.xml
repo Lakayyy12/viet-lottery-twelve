@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/drawable-v24/customborder1.xml" value="0.235" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/drawable-v24/customborder2.xml" value="0.235" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.235" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/drawable/gradient.xml" value="0.235" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.235" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/drawable/ic_launcher_background.xml" value="0.235" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/activity_privacy_page.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/activity_terms_condition_page.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/card_layout_guide.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/custom_dialog_content.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/custom_dialog_info.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/fragment_guide.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/fragment_tips.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/fragment_ways.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Dingsheng/AndroidStudioProjects/VietLotteryTwelve/app/src/main/res/layout/list_way.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
